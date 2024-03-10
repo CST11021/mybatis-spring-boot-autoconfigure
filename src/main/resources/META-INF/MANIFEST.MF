@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.0
+Built-By: ave
+Build-Jdk: 11.0.2
+Specification-Title: mybatis-spring-boot-autoconfigure
+Specification-Version: 2.0
+Specification-Vendor: MyBatis.org
+Implementation-Title: mybatis-spring-boot-autoconfigure
+Implementation-Version: 2.0.0
+Implementation-Vendor-Id: org.mybatis.spring.boot
+Implementation-Vendor: MyBatis.org
+Implementation-URL: http://www.mybatis.org/spring-boot-starter/mybatis-s
+ pring-boot-autoconfigure/
+Implementation-Build-Date: 2019-01-21 14:28:21+0000
+X-Compile-Source-JDK: 1.8
+X-Compile-Target-JDK: 1.8
+
